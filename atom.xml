@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>борщ</title>
+    <link href="http://borschts.ch/atom.xml" rel="self" />
+    <link href="http://borschts.ch" />
+    <id>http://borschts.ch/atom.xml</id>
+    <author>
+        <name>Anonymous</name>
+        <email>anon@ymous.com</email>
+    </author>
+    <updated>Unknown</updated>
+    
+</feed>
